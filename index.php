@@ -1,44 +1,5 @@
 <?php include 'header.php'; ?>
 
-<style>
-
-
-
-    @media only screen and (max-width: 600px) {
-        /*For extra small device*/
-        .carousel-img {
-            height: 200px;
-        }
-    }
-
-    @media only screen and (max-width: 768px) {
-        /*For mobile phones*/
-        .carousel-img {
-            height: 240px;
-        }
-    }
-    @media only screen and (min-width: 768px)) {
-        /* Medium devices (landscape tablets, 768px and up) */
-        .carousel-img {
-            height: 300px;
-        }
-    }
-    @media only screen and (min-width: 992px) {
-        /* Large devices (laptops/desktops, 992px and up) */
-        .carousel-img {
-            height: 450px;
-        }
-    }
-    @media only screen and (min-width: 1200px) {
-        /* Extra large devices (large laptops and desktops, 1200px and up) */
-        .carousel-img {
-            height: 600px;
-        }
-    }
-
-
-</style>
-
 <div class="container">
     <div class="row">
         <div class="col">
@@ -54,7 +15,7 @@
                         <img src="img/c2.jpg" class="d-block w-100 carousel-img" alt="...">
                         <div class="carousel-caption d-none d-md-block">
                             <h1>FIND WHEELS & TYRES</h1>
-                            <p class="text-warning" style="font-size: 2em;">FOR ALL VEHICLE TYPES</p>
+                            <p style="font-size: 2em; color: yellow">FOR ALL VEHICLE TYPES</p>
                         </div>
                     </div>
                     <div class="carousel-item">
@@ -80,12 +41,64 @@
 </div>
 
 
+<div class="container-fluid">
+    <div class="row">
 
+        <div class="col-md-8 p-5" style="background: #f8f7f7;">
+
+            <div class="row">
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-2">
+                        <span class="fas fa-wrench fa-2x" style="color: yellow;"></span>
+                    </div>
+                    <div class="col-10">
+                        <h5>We're Tire Experts</h5>
+                        <p>
+                            Whatever your budget and whatever the size of car you are looking for,
+                            we are sure we can help you find what’s right for you.
+                            To fully appreciate the range of cars we have on offer
+                            please visit one of our showrooms.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-md-6">
+                <div class="row">
+                    <div class="col-2">
+                        <span class="fas fa-clock fa-2x" style="color: yellow;"></span>
+                    </div>
+                    <div class="col-10">
+                        <h5>100% Guaranteed Fitmen</h5>
+                        <p>
+                            Whatever your budget and whatever the size of car you are looking for,
+                            we are sure we can help you find what’s right for you.
+                            To fully appreciate the range of cars we have on offer
+                            please visit one of our showrooms.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+            </div>
+        </div>
+
+        <div class="col-sm-4">
+            <img src="img/undraw.svg" alt="" class="img-fluid">
+        </div>
+
+    </div>
+</div>
+
+<hr>
 <div class="container">
     <div class="row">
         <div class="col-md-7">
             <span><i>We provide a</i></span>
-            <h3 class="text-warning">
+            <h3 class="text-primary">
                 OVER 500 TIRE TESTS TO <br>
                 ENSURE YOU GET THE <br>
                 PERFECT TIRE FOR YOUR <br>
