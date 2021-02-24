@@ -1,4 +1,7 @@
-<?php include 'header.php'; ?>
+<?php include 'header.php';
+$_SESSION['page'] = "index";
+?>
+
 
 <div class="container">
     <div class="row">

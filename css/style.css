@@ -1,5 +1,19 @@
 
+.flex-container {
+    display: flex;
+}
+.flex-container a {
+    box-sizing: border-box;
+}
+.social-icons{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+}
 
+.base-logo{
+    height: 10px;
+}
 
 @media only screen and (max-width: 600px) {
     /*For extra small device*/
@@ -9,10 +23,7 @@
     .sm-hide{
         display: none;
     }
-    .flex-container img{
-        width: 30px;
-        height: 30px;
-    }
+
 }
 
 @media only screen and (max-width: 768px) {
@@ -23,10 +34,7 @@
     .sm-hide{
         display: none;
     }
-    .flex-container img{
-        width: 30px;
-        height: 30px;
-    }
+
     .flex-container{
       margin-left: 40px;
     }
@@ -38,10 +46,6 @@
     }
     .sm-hide{
         display: none;
-    }
-    .flex-container img{
-        width: 50px;
-        height: 50px;
     }
 
     .flex-container a{
@@ -63,16 +67,4 @@
     }
 }
 
-.flex-container {
-    display: flex;
-}
-.flex-container a {
-    box-sizing: border-box;
-    /*margin: 10px;*/
-    /*font-size: 10px;*/
-}
-.flex-container img{
-    width: 50px;
-    height: 50px;
-    margin-left: 15px;
-}
+
