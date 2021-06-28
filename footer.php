@@ -1,3 +1,4 @@
+
 <div style="background: #2a2929; color: white; clear: both;" class="p-5">
 
 <div class="container">
@@ -11,7 +12,7 @@
             <h5>GET IN TOUCH</h5>
             <span><span class="fas fa-envelope"></span> <span class="sm-hide">Email</span>: <span class="text-white-50">info@pioneerwheels.com</span></span><br>
             <div class="mt-2"><span class="fas fa-phone"></span> <span class="sm-hide">Tel</span>: <a href="tel:+27739212240" class="text-white-50">+27739212240</a></div>
-            <div class="mt-2"><span class="fas fa-map-marker"></span> <span class="sm-hide">Address</span>: <span class="text-white-50">81 Italian road Newlands South Africa</span></div>
+            <div class="mt-2"><span class="fas fa-map-marker"></span> <span class="sm-hide">Address</span>: <span class="text-white-50">117 Main Rd, Newlands, Randburg, 2092</span></div>
             <hr style="color: #c6c4c4; border: 1px solid #c6c4c4;">
         </div>
 
@@ -38,6 +39,7 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
 
+
 <script>
     window.onload = function () {
 
@@ -62,6 +64,9 @@
                 index.classList.add('active');
                 break;
         }
+
+
+
 
     }
 </script>

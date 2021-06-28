@@ -41,9 +41,11 @@
                     <a class="nav-link text-center" href="">Services</a>
                 </li>
                 <li class="nav-item" id="contact-page">
-                    <a class="nav-link text-center" href="">Contact</a>
+                    <a class="nav-link text-center" href="contact.php">Locate Us</a>
                 </li>
             </ul>
         </div>
     </div>
 </nav>
+
+
