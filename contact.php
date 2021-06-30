@@ -8,8 +8,8 @@ $_SESSION['page'] = "contact";
                 <!-- Code for Google My Map Api  -->
     <div class="row">
     <div class="col">
-    
-    <iframe src="https://www.google.com/maps/d/embed?mid=1dD9Nt4yOnSAxMwHmLY9w2kKkGXQ5LJKr&ll=-26.17391,27.96471"
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1dD9Nt4yOnSAxMwHmLY9w2kKkGXQ5LJKr&ll=-26.17479,27.96528"
      style="width:100%; height:480px;">
     </iframe>
 

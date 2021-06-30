@@ -22,8 +22,8 @@
             <div class="flex-container">
                 <a href="https://api.whatsapp.com/send?phone=+27739212240"><img src="img/whatsapp.jpeg" class="img-fluid social-icons" alt=""></a>
                 <a href="https://www.facebook.com/pages/category/Automotive--Aircraft---Boat/Pioneer-wheels-110877014041229/" style="margin-left: 10px;"><img src="img/facebook.jpeg" class="img-fluid social-icons" alt=""></a>
-                <a style="margin-left: 10px;"><img src="img/instagram.jpg" class="img-fluid social-icons" alt=""></a>
-                <a style="margin-left: 10px;"><img src="img/twitter.png" class="img-fluid social-icons" alt=""></a>
+                <a style="margin-left: 10px;" href="https://www.instagram.com/pioneerwheels98/"><img src="img/instagram.jpg" class="img-fluid social-icons" alt=""></a>
+                <a style="margin-left: 10px;" href="https://twitter.com/pioneerwheels98"><img src="img/twitter.png" class="img-fluid social-icons" alt=""></a>
             </div>
             <hr style="color: #c6c4c4; border: 1px solid #c6c4c4;">
         </div>
